@@ -1,0 +1,149 @@
+.left{
+    display: inline-flex;
+    flex-direction: column;
+}
+
+.logo{
+    height: 50px;
+    width: 180px;
+    padding-bottom: 50px;
+}
+
+.one{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: cornflowerblue;
+    border: solid cornflowerblue 10px;
+    text-align: center;
+    border-radius: 10px;
+    width: 250px;
+    margin: 10px;
+    list-style-type: none;
+}
+.two{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: cornflowerblue;
+    border: solid cornflowerblue 10px;
+    text-align: center;
+    border-radius: 10px;
+    width: 250px;
+    margin: 10px;
+    list-style-type: none;
+}
+.three{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: cornflowerblue;
+    border: solid cornflowerblue 10px;
+    text-align: center;
+    border-radius: 10px;
+    width: 250px;
+    margin: 10px;
+    list-style-type: none;
+}
+.four{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: cornflowerblue;
+    border: solid cornflowerblue 10px;
+    text-align: center;
+    border-radius: 10px;
+    width: 250px;
+    margin: 10px;
+    list-style-type: none;
+}
+.five{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: cornflowerblue;
+    border: solid cornflowerblue 10px;
+    text-align: center;
+    border-radius: 10px;
+    width: 250px;
+    margin: 10px;
+    list-style-type: none;
+}
+.deals{
+    width: 250px;
+    padding-left: 60px;
+}
+.left p{
+    background-color: rgb(221, 56, 86);
+    border: solid rgb(221, 56, 86) 10px;
+    text-align: center;
+    border-radius: 10px;
+    width: 250px;
+    margin-left: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.middle{
+    display: inline-flex;
+    flex-direction: column;
+}
+h2{
+    color: rgb(66, 65, 65);
+}
+.middle p{
+    color: rgb(150, 145, 145);
+    margin-top: 0;
+}
+
+.imgone{
+    height: 250px;
+    width: 180px;
+    border-radius: 10px;
+}
+.imgtwo{
+    height: 250px;
+    width: 180px;
+    border-radius: 10px;
+}
+.imgthree{
+    height: 250px;
+    width: 180px;
+    border-radius: 10px;
+}
+
+.subone{
+    height: 100px;
+    width: 100px;
+    float: left;
+    border-radius: 10px;
+}
+.subtwo{
+    height: 100px;
+    width: 100px;
+    float: left;
+    border-radius: 10px;
+}
+.subthree{
+    height: 100px;
+    width: 100px;
+    float: left;
+    border-radius: 10px;
+}
+.subfour{
+    height: 100px;
+    width: 100px;
+    float: left;
+    border-radius: 10px;
+}
+
+.dis{
+    display: inline-flex;
+    gap: 10px;
+}
+.right{
+    display: inline-flex;
+    flex-direction: column;
+    margin-left: 30px;
+    width: 300px;
+}
+
+.right img{
+    border-radius: 10px;
+}
+
+.cal{
+    height: 250px;
+}
+
+.right p{
+    color: rgb(150, 145, 145);
+}
